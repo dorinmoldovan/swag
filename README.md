@@ -2,24 +2,19 @@
 
 ## Using SWAG
 
-1. swag.config - contains the project's configuration
-2. API_TYPE can be JENA or D2RQ
-3. The generated files will be saved at the location specified in the configuration
+1. swag.config - contains the project's configuration.
+2. API_TYPE can be JENA or D2RQ.
+3. The generated files will be saved at the location specified in the configuration.
 4. In the case D2RQ is used, an empty database with the specified name must already exist (the tables will be 
-generated automatically)
-5. The package ro.tuc.dsrl.swag.model.diagnostic contains examples of how this API is used
+generated automatically).
+5. The package ro.tuc.dsrl.swag.model.diagnostic contains examples of how this API is used.
 
 ## Built With
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 ## Authors
 
-Dorin Moldovan 
-Claudia Pop 
-Marcel Antal 
-Tudor Cioara 
-Ionut Anghel 
-Ioan Salomie
+Dorin Moldovan & Claudia Pop & Marcel Antal & Tudor Cioara & Ionut Anghel & Ioan Salomie
 
 See more details about our research activity at the following link [DSRL](http://dsrl.coned.utcluj.ro/)
 
