@@ -22,7 +22,7 @@ generated automatically.
 
 Weight diagnostic detection.
 
-![Diagnostic Ontology](src/main/resources/ProtegeDiagram.jpg?raw=true "Title")
+![Diagnostic Ontology](src/main/resources/ProtegeDiagram.png?raw=true "Title")
 
 ## Authors
 
