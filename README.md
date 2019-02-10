@@ -11,10 +11,11 @@ generated automatically.
 
 ## Built With
 * [Maven](https://maven.apache.org/) - Dependency Management
-
-## External libraries
-
-The project contains five external libraries: [arq](http://www.java2s.com/Code/Jar/a/Downloadarq285jar.htm), [d2rq](http://d2rq.org/), [d2rqUpdate](https://github.com/VadimEisenberg/d2rqUpdate), [jgrapht](http://www.jgrapht.org/) and [jsqlparser](https://github.com/JSQLParser/JSqlParser). 
+* [arq](http://www.java2s.com/Code/Jar/a/Downloadarq285jar.htm)
+* [d2rq](http://d2rq.org/)
+* [d2rqUpdate](https://github.com/VadimEisenberg/d2rqUpdate)
+* [jgrapht](http://www.jgrapht.org/)
+* [jsqlparser](https://github.com/JSQLParser/JSqlParser)
 
 ## Authors
 
