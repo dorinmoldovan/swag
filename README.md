@@ -11,11 +11,18 @@ generated automatically.
 
 ## Built With
 * [Maven](https://maven.apache.org/)
+* [Protege](https://protege.stanford.edu/)
 * [arq](http://www.java2s.com/Code/Jar/a/Downloadarq285jar.htm)
 * [d2rq](http://d2rq.org/)
 * [d2rqUpdate](https://github.com/VadimEisenberg/d2rqUpdate)
 * [jgrapht](http://www.jgrapht.org/)
 * [jsqlparser](https://github.com/JSQLParser/JSqlParser)
+
+## Use Case
+
+Weight diagnostic detection.
+
+![Diagnostic Ontology](src/main/resources/ProtegeDiagram.jpg?raw=true "Title")
 
 ## Authors
 
