@@ -20,9 +20,9 @@ generated automatically.
 
 ## Use Case
 
-Weight diagnostic detection.
+Weight Diagnostic Detection.
 
-![Diagnostic Ontology](swag/src/main/resources/ProtegeDiagram.png?raw=true "Title")
+![Diagnostic Ontology](src/main/resources/diagrams/ProtegeDiagram.png?raw=true "Title")
 
 ## Authors
 
