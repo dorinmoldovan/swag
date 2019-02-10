@@ -1,0 +1,16 @@
+[1] http://examples.javacodegeeks.com/enterprise-java/spring/jpaorm/generating-database-objects-from-hibernate-entities/
+[2] http://www.tutorialspoint.com/hibernate/hibernate_annotations.htm
+[3] http://antoniogoncalves.org/2014/12/11/generating-database-schemas-with-jpa-2-1/
+[4] http://www.tutorialspoint.com/jpa/jpa_advanced_mappings.htm
+[5] http://www.intertech.com/resource/usergroup/Exploring%20the%20JPA.pdf
+[6] http://www.vogella.com/tutorials/JavaPersistenceAPI/article.html
+[7] http://www.vogella.com/tutorials/JavaPersistenceAPI/article.html
+[8] http://ggl-consulting.blogspot.ro/2014/07/how-to-create-maven-jpa-project-from.html
+[9] http://www.javavids.com/video/jpa-project-using-hibernate-and-maven.html
+[10] http://mariemjabloun.blogspot.ro/2013/02/create-jpa-project-using-jpahibernate.html
+[11] http://mariemjabloun.blogspot.ro/2013/02/create-jpa-project-using-jpahibernate.html
+[12] http://www.javavids.com/video/jpa-project-using-hibernate-and-maven.html
+[13] https://github.com/hantsy/ee7-sandbox/wiki/jpa-scripts
+[14] https://jena.apache.org/documentation/inference/
+[15] http://d2rqupdate.cs.technicon.ac.il/tutorial
+[16] http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/
