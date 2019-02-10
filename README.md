@@ -10,7 +10,7 @@ generated automatically.
 5. The package ro.tuc.dsrl.swag.model.diagnostic contains examples of how this API is used.
 
 ## Built With
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [Maven](https://maven.apache.org/)
 * [arq](http://www.java2s.com/Code/Jar/a/Downloadarq285jar.htm)
 * [d2rq](http://d2rq.org/)
 * [d2rqUpdate](https://github.com/VadimEisenberg/d2rqUpdate)
