@@ -21,7 +21,7 @@ Tudor Cioara
 Ionut Anghel 
 Ioan Salomie
 
-See more details about our research activity at the following link: [DSRL](http://dsrl.coned.utcluj.ro/)
+See more details about our research activity at the following link [DSRL](http://dsrl.coned.utcluj.ro/)
 
 ## License
 
@@ -29,6 +29,6 @@ This project is licensed under the GPL License - see the [LICENSE](LICENSE) file
 
 ## Research Articles
 
-[1] D. Moldovan, C. Pop, M. Antal, T. Cioara, I. Anghel, I. Salomie, "SWAG: Semantic web application generator - a library for using ontologies as web services", 2016 IEEE 12th International Conference on Intelligent Computer Communication and Processing (ICCP), Cluj-Napoca, Cluj, Romania, 8-10 September 2016. [CrossRef](https://ieeexplore.ieee.org/document/7737130)
+[1] D. Moldovan, C. Pop, M. Antal, T. Cioara, I. Anghel, I. Salomie, "SWAG: Semantic web application generator - a library for using ontologies as web services", 2016 IEEE 12th International Conference on Intelligent Computer Communication and Processing (ICCP), Cluj-Napoca, Cluj, Romania, 8-10 September 2016. [[CrossRef](https://ieeexplore.ieee.org/document/7737130)]
 
-[2] C. Pop, D. Moldovan, M. Antal, D. Valea, T. Cioara, I. Anghel, I. Salomie, "M2O: A library for using ontologies in software engineering", 2015 IEEE International Conference on Intelligent Computer Communication and Processing (ICCP), Cluj-Napoca, Cluj, Romania, 3-5 September 2015. [CrossRef](https://ieeexplore.ieee.org/document/7312608)
+[2] C. Pop, D. Moldovan, M. Antal, D. Valea, T. Cioara, I. Anghel, I. Salomie, "M2O: A library for using ontologies in software engineering", 2015 IEEE International Conference on Intelligent Computer Communication and Processing (ICCP), Cluj-Napoca, Cluj, Romania, 3-5 September 2015. [[CrossRef](https://ieeexplore.ieee.org/document/7312608)]
