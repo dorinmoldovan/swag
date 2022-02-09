@@ -15,7 +15,7 @@
 		<commons-lang3.version>3.0</commons-lang3.version>
 
 		<!-- Hibernate -->
-		<hibernate.version>4.3.11.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 
 		<!-- MYSQL -->
 		<mysql.version>5.1.36</mysql.version>
